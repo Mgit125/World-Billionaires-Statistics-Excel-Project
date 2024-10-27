@@ -5,10 +5,14 @@
 In this project, I explored the top billionaires around the world by analyzing their personal, financial, and geographical data using Excel. The goal was to derive valuable insights into wealth distribution, gender ratios, sources of wealth, and economic factors that influence billionaire statistics globally.
 
 ## Tools & Techniques:
-•	Pivot Tables: Used to summarize key metrics such as average billionaire wealth by country and gender distribution.
-•	Charts: Created various charts like bar charts, pie charts, and scatter plots to visualize the distribution of wealth, the impact of Consumer Price Index (CPI) on wealth, and geographical distribution of billionaires.
-•	Conditional Formatting: Highlighted data trends and outliers, such as the youngest billionaires or countries with high GDP but few billionaires.
-•	Formulas: Utilized functions like AVERAGE(), COUNTIF(), and SUMIF() to analyze billionaire age, self-made wealth percentage, and more.
+
+Pivot Tables: Used to summarize key metrics such as average billionaire wealth by country and gender distribution.
+
+Charts: Created various charts like bar charts, pie charts, and scatter plots to visualize the distribution of wealth, the impact of Consumer Price Index (CPI) on wealth, and geographical distribution of billionaires.
+
+Conditional Formatting: Highlighted data trends and outliers, such as the youngest billionaires or countries with high GDP but few billionaires.
+
+Formulas: Utilized functions like AVERAGE(), COUNTIF(), and SUMIF() to analyze billionaire age, self-made wealth percentage, and more.
 
 ## Key Insights:
 
